@@ -1,0 +1,8 @@
+Primeiro tópico do curso de JAVA
+Abordado temas como:
+ - Lógica de Programação
+ - Estrutura sequencial
+ - Estrutura condicional
+ - Estrutura repetitivas
+ - Operadores
+ - Sintaxe
