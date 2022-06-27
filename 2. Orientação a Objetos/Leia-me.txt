@@ -1,0 +1,11 @@
+Segundo tópico do curso de JAVA
+Abordado temas como:
+ - Conceito de objeto e classe
+ - Construtores, sobrecarga e encapsulamento
+ - Comportamento de memória, arrays e listas
+ - Enums e composições
+ - Herança e polimorfismo
+ - Exceções
+ - Manipulação de arquivos
+ - Interfaces
+ - Generics, Set e Map
